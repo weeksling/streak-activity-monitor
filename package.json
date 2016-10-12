@@ -4,6 +4,7 @@
   "description": "A node daemon application that fetches activity data from Streak API and provides it to GeckoDashboard",
   "main": "index.js",
   "scripts": {
+    "start": "node index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -15,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/weeksling/streak-activity-monitor/issues"
   },
-  "homepage": "https://github.com/weeksling/streak-activity-monitor#readme"
+  "homepage": "https://github.com/weeksling/streak-activity-monitor#readme",
+  "dependencies": {
+    "dotenv": "^2.0.0"
+  }
 }
