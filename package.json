@@ -1,0 +1,19 @@
+{
+  "name": "streak-activity-monitor",
+  "version": "1.0.0",
+  "description": "A node daemon application that fetches activity data from Streak API and provides it to GeckoDashboard",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/weeksling/streak-activity-monitor.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/weeksling/streak-activity-monitor/issues"
+  },
+  "homepage": "https://github.com/weeksling/streak-activity-monitor#readme"
+}
