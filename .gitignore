@@ -1,3 +1,6 @@
+# For now, ignore the environment variables to keep my keys safe
+.env
+
 # Logs
 logs
 *.log
