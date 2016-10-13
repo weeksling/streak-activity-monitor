@@ -19,6 +19,7 @@
   "homepage": "https://github.com/weeksling/streak-activity-monitor#readme",
   "dependencies": {
     "dotenv": "^2.0.0",
+    "geckoboard": "^1.1.0",
     "request": "^2.75.0"
   }
 }
